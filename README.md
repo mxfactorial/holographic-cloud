@@ -4,11 +4,17 @@ controlling electronic signals with phonetic symbols through silicon & metal add
 
 signaling `on` and `off` in its native medium reduces archaic "computation" to the world in which mathematicians dream  
 
-### engineering vs advertising
+### vegas strip vs public library
 
 eliminate the subtly high cost of information which requires an offset from advertisements. the internet is almost unusable at this point
 
 information shouldnt depend on advertisements
+
+it belongs in a low cost library
+
+### what about privacy?
+
+everyones fine when the watched watches the watchers
 
 ### reading & writing
 angles are a geometric data structure. to enable *transformation* as computation, record interference patterns encoding [angles](https://en.wikipedia.org/wiki/Reference_(computer_science)) to subsequent interference patterns. [loops](https://en.wikipedia.org/wiki/For_loop) are automated in a linearly recording optical medium by simultaneously broadcasting data transformations across the angles that would have served as indexes in the loop. add sequenced data until information is complete. rewriting data is not important in a medium that reduces linear search to a flash of light. and pushing the boundaries of materials and lasers is not a priority (starting out by storing and reading interference patterns across bloated pixels is fine)  
