@@ -12,10 +12,6 @@ information shouldnt depend on advertisements
 
 it belongs in a low cost library
 
-### what about privacy?
-
-everyones fine when the watched watches the watchers
-
 ### reading & writing
 angles are a geometric data structure. to enable *transformation* as computation, record interference patterns encoding [angles](https://en.wikipedia.org/wiki/Reference_(computer_science)) to subsequent interference patterns. [loops](https://en.wikipedia.org/wiki/For_loop) are automated in a linearly recording optical medium by simultaneously broadcasting data transformations across the angles that would have served as indexes in the loop. add sequenced data until information is complete. rewriting data is not important in a medium that reduces linear search to a flash of light. and pushing the boundaries of materials and lasers is not a priority (starting out by storing and reading interference patterns across bloated pixels is fine)  
 
@@ -66,3 +62,23 @@ interference patterns as data and its transformation
 1. research materials capable of photochemical sublimation to avoid messy and expensive lasers
 
 \* requirements are written to evolve from currently available tech and methods so they're easier to follow and extend by others
+
+### faq
+
+**q.** what about privacy?  
+**a.** everyones fine when the watched watches the watchers
+
+**q.** what about security?  
+**a.** everyones fine when immutable angles automate security
+
+"can i store my home movies in the same place as public transaction data?"
+
+*yes*
+
+"what about my current business inventory?"
+
+*yes*
+
+"and my user interface code?"
+
+*yes*
